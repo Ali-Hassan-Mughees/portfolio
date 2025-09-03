@@ -125,7 +125,7 @@ export function Hero() {
           >
             View My Work
           </Button>
-          <a href="/assets/Ali_Hassan_CV.pdf" download>
+          <a href="/assets/Ali_Hassan_Mughees_CV.pdf" download>
             <Button
               variant="outline"
               size="lg"

@@ -57,6 +57,17 @@ export function Projects() {
       featured: false,
       demoLink: "https://app.validmarker.com/sign-in"
     },
+    {
+      title: "Certificate Lifecycle Management (CLM)",
+      description: "End-to-end certificate issuance, eSignature, renewal, and revocation.",
+      longDescription:
+        "Designed a CLM web app that centralizes certificate creation, approval, eSignature, renewal scheduling, and revocation. Includes role-based access, audit trails, tamper-evident storage, and real-time status tracking. Mobile-ready UI.",
+      image: "/images/project/certificate_lifecycle_management.png",
+      technologies: ["React", "Tailwind CSS", "Python", "APIs"],
+      category: "Web Apps",
+      featured: false,
+      demoLink: "https://v2app.clm.dictalabs.com/login"
+    },
   ]
 
   const categories = [

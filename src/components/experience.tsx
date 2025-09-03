@@ -11,7 +11,7 @@ export function Experience() {
       title: "Mobile Application Developer",
       company: "DictaLabs",
       location: "Lahore, Pakistan",
-      period: "Aug 2024 – Present",
+      period: "Oct 2024 – Present",
       type: "Full-time",
       description:
         "Developing cross-platform mobile apps with Flutter. Implementing MVVM architecture, backend integrations, and secure authentication flows.",
@@ -30,7 +30,7 @@ export function Experience() {
       title: "Web Application Developer",
       company: "DictaLabs",
       location: "Lahore, Pakistan",
-      period: "Jan 2024 – Present",
+      period: "Oct 2024 – Present",
       type: "Full-time",
       description:
         "Creating responsive, scalable web applications using React and Angular. Focused on clean architecture, reusable components, and REST API integration.",

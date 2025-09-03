@@ -94,7 +94,7 @@ export function About() {
 
 
               <div className="flex flex-col sm:flex-row gap-4">
-                <a href="/assets/Ali_Hassan_CV.pdf" download>
+                <a href="/assets/Ali_Hassan_Mughees_CV.pdf" download>
                   <Button size="lg" className="bg-gradient-to-r from-blue-600 to-purple-600 cursor-pointer">
                     <Download className="mr-2 h-5 w-5" />
                     Download Resume
