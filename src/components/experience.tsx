@@ -8,29 +8,10 @@ import { motion } from "framer-motion"
 export function Experience() {
   const experiences = [
     {
-      title: "Mobile Application Developer",
-      company: "DictaLabs",
-      location: "Lahore, Pakistan",
-      period: "Oct 2024 – Present",
-      type: "Full-time",
-      description:
-        "Developing cross-platform mobile apps with Flutter. Implementing MVVM architecture, backend integrations, and secure authentication flows.",
-      technologies: [
-        "Flutter", "Dart", "MVVM", "Firebase", "REST APIs", "Provider", "GitHub"
-      ],
-      achievements: [
-        "Built vScrawl mobile app – eSignature and workflow automation",
-        "Developed eTugra Auth App with 2FA and remote signing",
-        "Optimized performance using Flutter Method Channels for native calls",
-        "Integrated real-time data sync with Firebase and REST APIs"
-      ],
-      color: "from-amber-500 to-orange-500",
-    },
-    {
       title: "Web Application Developer",
       company: "DictaLabs",
       location: "Lahore, Pakistan",
-      period: "Oct 2024 – Present",
+      period: "Oct 2023 – Present",
       type: "Full-time",
       description:
         "Creating responsive, scalable web applications using React and Angular. Focused on clean architecture, reusable components, and REST API integration.",
@@ -44,6 +25,25 @@ export function Experience() {
         "Optimized API calls and frontend performance for large datasets"
       ],
       color: "from-teal-500 to-lime-500",
+    },
+    {
+      title: "Mobile Application Developer",
+      company: "DictaLabs",
+      location: "Lahore, Pakistan",
+      period: "Oct 2023 – Present",
+      type: "Full-time",
+      description:
+        "Developing cross-platform mobile apps with Flutter. Implementing MVVM architecture, backend integrations, and secure authentication flows.",
+      technologies: [
+        "Flutter", "Dart", "MVVM", "Firebase", "REST APIs", "Provider", "GitHub"
+      ],
+      achievements: [
+        "Built vScrawl mobile app – eSignature and workflow automation",
+        "Developed eTugra Auth App with 2FA and remote signing",
+        "Optimized performance using Flutter Method Channels for native calls",
+        "Integrated real-time data sync with Firebase and REST APIs"
+      ],
+      color: "from-amber-500 to-orange-500",
     },
   ]
 
